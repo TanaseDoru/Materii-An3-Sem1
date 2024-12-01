@@ -1,0 +1,1 @@
+Comanda `addpath` pentru a putea crea functii si a le folosi de oriunde
