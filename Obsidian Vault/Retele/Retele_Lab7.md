@@ -5,11 +5,11 @@ Router# Show Ip Route
 
 Configurare Ruta Default
 *Router(config#) ip route 0.0.0.0 0.0.0.0 \[IP]*
-\[IP] -> Cel mai indepartat Ip cunoscut de router
+\[IP\] -> Cel mai indepartat Ip cunoscut de router
 
 
-s* 0.0.0.0/0 via \[IP] -> Ruta default
-Prin \[IP] se poate ajunge in orice retea
+s* 0.0.0.0/0 via \[IP\] -> Ruta default
+Prin \[IP\] se poate ajunge in orice retea
 
 S-a folosit topologia:
 Lab_7_Rutare
